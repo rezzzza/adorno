@@ -2,16 +2,11 @@
   <br />
   <img src="http://rezaha.com/blog/wp-content/uploads/2021/09/adorno-lib.jpg" height="250" />
   <h1>Adorno</h1>
-  <strong>Personal Library Management App for Book Addicts</strong>
+  <strong>Personal Library Manager App for Book Addicts</strong>
   <br /><br />
 </div>
 
-**Adorno** is a free & open source (& still in development) personal library management application for the book addicts.
+## About
+**Adorno** is a free and open source (& still in development) personal library manager for the book addicts. It's based on create, manage, and share personal libraries.
 
-## Roadmap
-- [ ] Add basic features
-- [ ] Initial Release
-- [ ] Add a general roadmap for project
-- [ ] Add a roadmap for features
-- [ ] Add contributing guide
 
